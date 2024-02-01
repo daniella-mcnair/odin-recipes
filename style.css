@@ -1,0 +1,18 @@
+.container {
+   display: flex;
+   flex-flow: row wrap;
+
+}
+
+.item {
+  
+    justify-content: center;
+}
+
+.card-img-top {
+   margin-bottom: 15px;
+}
+
+.subheader {
+    text-align:center
+}
